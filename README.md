@@ -61,7 +61,7 @@ Eehh, maybe
 
 Ex. Nja det tycker jag inte (eeh, I don't think so)
 
-### Asså
+### Asså (derived from alltså)
 
 Eng. "like" (like, you know)
 
