@@ -3,6 +3,7 @@
 ## Pronouns
 
 De = They
+
 Dom = Them (but we barely use 'de', so you can always use 'dom')
 
 Also swedish people don't give a fuck about objects in a sentence sometimes, so you don't need to say 'honom, henne', you can use 'han, hon'
