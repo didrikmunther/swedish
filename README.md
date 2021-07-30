@@ -40,6 +40,12 @@ Translation of 'He likes her'
 |Dig		| Dej|
 |Mig		| Mej|
 |Och    | Å\/O|
+|...rs		| ...sch|
+|Anders		| Andesch|
+|Skj|sch (it's a ske-ljud, sch but with your lips as an O)|
+|Skjuta|Schuta (shoot)|
+|Tj|Sch|
+|Tja|Scha (hello)|
 
 ### Sentences
 
