@@ -9,7 +9,9 @@ Dom = Them (but we barely use 'de', so you can always use 'dom')
 Also swedish people don't give a fuck about objects in a sentence sometimes, so you don't need to say 'honom, henne', you can use 'han, hon'
 
 Translation of 'He likes her'
+
 'Han gillar hon'   (technically wrong, but sounds/looks perfectly find)
+
 'Han gillar henne' (right, but is one sullaby extra, and time is money)
 
 ## Pronounciation
