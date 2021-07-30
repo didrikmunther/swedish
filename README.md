@@ -44,8 +44,8 @@ All "det"'s here are often pronounced "de"
 |Dig		| Dej|
 |Mig		| Mej|
 |Och    | Å\/O|
-|...rs		| ...sch|
-|Anders		| Andesch|
+|...rs		| ...ش|
+|Anders		| Andeش|
 |Sj...|خ (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), it's a softer خ)|
 |Sjunga|خunga (sing)|
 |Skj...|خ (same as above)|
