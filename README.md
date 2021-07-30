@@ -20,7 +20,7 @@ Translation of 'He likes her'
 |Sig		| Sej|
 |Dig		| Dej|
 |Mig		| Mej|
-|Och    | Å/O|
+|Och    | Å\/O|
 
 ### Sentences
 
