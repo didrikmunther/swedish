@@ -14,6 +14,14 @@ Translation of 'He likes her'
 
 'Han gillar henne' (right, but is one sullaby extra, and time is money)
 
+## Greetings
+
+|Type | Variants|
+|-|-|
+|Hello|Hej, Tja (scha), Tjena (schena), Tjo (scho)|
+|Good morning|God morgon, Morgon, Morrn, Mors (Mosch)|
+|Good night|God natt, Gonatt|
+
 ## Pronounciation
 
 |Word|Pronounciation|
