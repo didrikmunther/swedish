@@ -1,5 +1,31 @@
 # Swedish
 
+## Plurals, definite forms
+
+Lmao good luck learning those, there are barely any rules. There are 2 grammatical genders (neutrum (ett), utrum (en)), and 5 different declensions. If you can find a pattern, immediately contact the Swedish embassy and say you have solved swedish grammar.
+
+These are 5 different declensions of nouns:
+
+|A bottle|Bottles|The bottle|The bottles|
+|-|-|-|-|
+|En flaska|Flaskor|Flaskan|Flaskorna|
+
+|A dog|Dogs|The dog|The dogs|
+|-|-|-|-|
+|En hund|Hundar|Hunden|Hundarna|
+
+|A thing|Things|The thing|The things|
+|-|-|-|-|
+|En sak|Saker|Saken|Sakerna|
+
+|A heart|Hearts|The heart|The hearts|
+|-|-|-|-|
+|Ett hjärta|Hjärtan|Hjärtat|Hjärtana|
+
+|A tree|Trees|The tree|The trees|
+|-|-|-|-|
+|Ett träd|Träd|Trädet|Träden|
+
 ## Pronouns
 
 De = They
@@ -56,7 +82,7 @@ I always use "Å", but people from the west coast (Göteborg, Borås) use "O" (f
 |Sig		| Sej|
 |Dig		| Dej|
 |Mig		| Mej|
-|...rs		| ...ش|
+|...rs...		| ...ش... (this can also occur between words if a word ends with "r" and the next begins with "s", more on this in sentences)|
 |Anders		| Andeش|
 |Sj...|خ (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), it's a softer خ)|
 |Sjunga|خunga (sing)|
@@ -82,6 +108,8 @@ Oftentimes we completely slaughter the sentence when speaking it.
 |-|-|-|
 |Det är bara att göra det|De ba\'å görat|You just need to do it|
 |Det tycker jag inte|De tycke\'ja\'nte|Nah, I don't think so|
+|Han gör så|Han göشå|He does that|
+|Han gillar inte det|Han gilla'nte de|He does not like that|
 
 ## Very important Swedish vocal ticks (which makes you sound native):
 
