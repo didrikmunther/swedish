@@ -27,9 +27,9 @@ Translation of 'He likes her'
 Oftentimes we completely slaughter the sentence when speaking it.
 
 |Swedish|Spoken Swedish|English|
-|-|-|
-|Det är bara att göra det|De ba'å görat|You just need to do it|
-|Det tycker jag inte|De tycke'ja'nte|Nah, I don't think so|
+|-|-|-|
+|Det är bara att göra det|De ba\'å görat|You just need to do it|
+|Det tycker jag inte|De tycke\'ja\'nte|Nah, I don't think so|
 
 ## Very important Swedish vocal ticks (which makes you sound native):
 
