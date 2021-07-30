@@ -37,13 +37,25 @@ All "det"'s here are often pronounced "de"
 
 ## Pronounciation
 
+### Dialectal
+
+Choosing between Å or O for the following words are dialectal.
+
+I always use "Å", but people from the west coast (Göteborg, Borås) use "O" (for example Peter).
+
 |Word|Pronounciation|
 |-|-|
-|De		| Dom|
+|Att|Å\/O|
+|Och    | Å\/O|
+
+### Real (this is not dialectal, it's the language)
+
+|Word|Pronounciation|
+|-|-|
+|De		| Dom (you can use both, but often "dom is always used when it is a pronoun")|
 |Sig		| Sej|
 |Dig		| Dej|
 |Mig		| Mej|
-|Och    | Å\/O|
 |...rs		| ...ش|
 |Anders		| Andeش|
 |Sj...|خ (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), it's a softer خ)|
