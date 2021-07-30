@@ -10,7 +10,7 @@ Also swedish people don't give a fuck about objects in a sentence sometimes, so 
 
 Translation of 'He likes her'
 
-'Han gillar hon'   (technically wrong, but sounds/looks perfectly find)
+'Han gillar hon'   (technically wrong, but sounds/looks perfectly fine)
 
 'Han gillar henne' (right, but is one sullaby extra, and time is money)
 
