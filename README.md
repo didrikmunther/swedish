@@ -22,6 +22,15 @@ Translation of 'He likes her'
 |Good morning|God morgon, Morgon, Morrn, Mors (Mosch)|
 |Good night|God natt, Gonatt|
 
+## Demonstrative pronouns
+
+|English|Swedish|
+|-|-|
+|This|Det här|
+|That|Det där|
+|These|Dom här|
+|Those|Dom där|
+
 ## Pronounciation
 
 |Word|Pronounciation|
