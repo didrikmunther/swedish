@@ -46,15 +46,15 @@ All "det"'s here are often pronounced "de"
 |Och    | Å\/O|
 |...rs		| ...sch|
 |Anders		| Andesch|
-|Sj...|sch (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), sch but with your lips as an O, it's a softer خ)|
-|Sjunga|Schunga (sing)|
-|Skj...|sch (same as above)|
-|Skjuta|Schuta (shoot)|
-|Sk...|sch (same as above, but only sometimes)|
-|Skit|schit (shit)|
+|Sj...|خ (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), it's a softer خ)|
+|Sjunga|خunga (sing)|
+|Skj...|خ (same as above)|
+|Skjuta|خuta (shoot)|
+|Sk...|خ (same as above, but only sometimes)|
+|Skit|خit (shit)|
 |Ska|Ska (shall/will)|
-|Tj|Sch|
-|Tja|Scha (hello)|
+|Tj|Sch ش|
+|Tja|شa (hello)|
 
 Other sj-sounds comes from:
 
