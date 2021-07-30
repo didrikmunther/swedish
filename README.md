@@ -14,15 +14,19 @@ Translation of 'He likes her'
 
 'Han gillar henne' (right, but is one sullaby extra, and time is money)
 
-## Greetings
+## Greetings / Good byes
 
 |Type | Variants|
 |-|-|
 |Hello|Hej, Tja (scha), Tjena (schena), Tjo (scho)|
 |Good morning|God morgon, Morgon, Morrn, Mors (Mosch)|
 |Good night|God natt, Gonatt|
+|See ya|Vi ses, Ses, Vi hörs (technically we'll hear from one another), Hörs|
+|Take care|Ha det bra, Ha det, Ha're|
 
 ## Demonstrative pronouns
+
+All "det"'s here are often pronounced "de"
 
 |English|Swedish|
 |-|-|
@@ -42,10 +46,21 @@ Translation of 'He likes her'
 |Och    | Å\/O|
 |...rs		| ...sch|
 |Anders		| Andesch|
-|Skj|sch (it's a ske-ljud, sch but with your lips as an O)|
+|Sj...|sch (it's a [sj-sound](https://en.wikipedia.org/wiki/Sj-sound), sch but with your lips as an O, it's a softer خ)|
+|Sjunga|Schunga (sing)|
+|Skj...|sch (same as above)|
 |Skjuta|Schuta (shoot)|
+|Sk...|sch (same as above, but only sometimes)|
+|Skit|schit (shit)|
+|Ska|Ska (shall/will)|
 |Tj|Sch|
 |Tja|Scha (hello)|
+
+Other sj-sounds comes from:
+
+* vi**si**onär
+* **stj**ärna
+* informa**ti**on
 
 ### Sentences
 
