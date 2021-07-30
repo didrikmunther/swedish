@@ -64,6 +64,7 @@ Ex. Nja det tycker jag inte (eeh, I don't think so)
 ### Asså
 
 Eng. "like" (like, you know)
+
 Arabic. "yani"
 
 Ex. Asså jag vet inte (Like, I don't know)
